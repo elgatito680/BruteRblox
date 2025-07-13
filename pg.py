@@ -30,7 +30,7 @@ def main():
 
     print("YOU CAN PROVIDE USERNAME NOW")
     # Get the user-specified username
-    username = input("Username: ")
+    username = input("situlisatesunmalade: ")
 
     print("Getting password_list...")
     time.sleep(1)
